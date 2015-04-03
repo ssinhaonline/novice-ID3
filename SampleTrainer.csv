@@ -1,0 +1,87 @@
+age,gender ,height,weight,job,IQ,born,status
+N,C,N,N,C,N,C,C
+76,Female,188,88,nurse,97,yonkers,married
+74,Male,171,74,zoo keeper,96,buffalo,single
+93,Male,172,82,doctor,116,new york city,widowed
+95,Female,175,113,zoo keeper,99,syracuse,divorced
+42,Male,190,98,zoo keeper,105,new york city,divorced
+99,Female,197,90,nurse,107,buffalo,divorced
+77,Female,189,107,mailman,122,yonkers,widowed
+94,Male,163,106,firefighter,110,buffalo,divorced
+37,Female,152,42,student,86,rochester,married
+78,Male,194,117,nurse,92,yonkers,single
+100,Female,162,117,unemployed,103,syracuse,widowed
+96,Male,160,71,police ,81,syracuse,widowed
+40,Male,187,103,firefighter,102,rochester,single
+28,Female,183,45,doctor,106,rochester,single
+31,Male,194,94,student,88,syracuse,single
+37,Female,148,76,nurse,113,new york city,widowed
+71,Female,148,42,nurse,105,buffalo,divorced
+57,Male,197,99,zoo keeper,77,syracuse,married
+55,Female,178,102,zoo keeper,80,yonkers,divorced
+100,Male,183,60,student,129,buffalo,single
+42,Female,164,96,firefighter,127,yonkers,married
+23,Male,158,67,nurse,83,albany,single
+84,Male,145,48,nurse,79,syracuse,married
+26,Female,172,85,student,106,syracuse,widowed
+72,Male,191,84,mailman,85,yonkers,widowed
+64,Female,178,103,mailman,88,albany,widowed
+41,Female,200,50,police ,96,rochester,single
+52,Male,141,106,student,98,buffalo,married
+95,Female,171,76,unemployed,78,buffalo,widowed
+33,Male,152,70,teacher,76,yonkers,divorced
+69,Female,196,105,mailman,86,albany,single
+90,Male,154,99,police ,124,yonkers,single
+48,Male,190,88,police ,71,buffalo,married
+42,Female,175,78,firefighter,99,buffalo,married
+20,Male,144,45,unemployed,109,rochester,widowed
+61,Female,186,106,firefighter,128,buffalo,divorced
+49,Female,168,48,police ,96,syracuse,divorced
+39,Male,171,42,police ,93,new york city,divorced
+56,Female,184,80,firefighter,91,rochester,divorced
+41,Male,141,94,zoo keeper,103,new york city,divorced
+66,Female,148,120,mailman,128,rochester,divorced
+38,Male,147,89,police ,98,syracuse,married
+42,Male,151,117,teacher,95,yonkers,single
+75,Female,168,75,zoo keeper,108,yonkers,married
+27,Male,160,55,teacher,120,buffalo,single
+27,Female,158,60,police ,125,new york city,divorced
+58,Female,152,92,student,112,new york city,widowed
+100,Male,179,110,teacher,100,albany,widowed
+27,Female,176,61,mailman,91,yonkers,married
+77,Male,167,66,nurse,75,syracuse,divorced
+78,Female,160,102,doctor,115,syracuse,divorced
+64,Male,145,102,police ,116,albany,married
+59,Male,166,43,zoo keeper,98,albany,single
+56,Female,168,59,student,71,buffalo,single
+90,Male,153,98,zoo keeper,70,rochester,divorced
+60,Female,155,72,doctor,91,albany,single
+20,Female,199,90,nurse,126,yonkers,widowed
+21,Male,193,110,nurse,116,syracuse,divorced
+36,Female,141,49,mailman,112,buffalo,widowed
+38,Male,179,86,doctor,103,new york city,single
+89,Female,178,88,student,106,syracuse,single
+28,Male,191,94,nurse,92,rochester,married
+54,Male,145,68,nurse,90,yonkers,single
+68,Female,140,118,unemployed,127,buffalo,single
+37,Male,178,95,student,72,new york city,divorced
+25,Female,180,58,police ,120,albany,widowed
+64,Female,178,69,firefighter,125,new york city,divorced
+66,Male,167,108,zoo keeper,112,yonkers,divorced
+97,Female,170,53,police ,96,albany,divorced
+75,Male,183,77,zoo keeper,99,new york city,widowed
+43,Female,192,41,police ,103,syracuse,divorced
+21,Male,175,78,firefighter,109,buffalo,widowed
+84,Male,181,91,student,121,yonkers,divorced
+43,Female,188,116,zoo keeper,93,syracuse,married
+54,Male,151,52,zoo keeper,82,yonkers,widowed
+100,Female,177,58,doctor,106,buffalo,widowed
+88,Female,185,101,nurse,119,albany,single
+76,Male,183,89,unemployed,120,rochester,divorced
+74,Female,188,45,doctor,89,albany,divorced
+56,Male,193,79,teacher,100,new york city,divorced
+50,Female,174,55,doctor,117,rochester,widowed
+77,Male,178,49,teacher,73,buffalo,single
+24,Male,154,42,police ,89,yonkers,single
+27,Female,176,120,firefighter,83,buffalo,widowed
+79,Male,193,40,firefighter,129,new york city,married

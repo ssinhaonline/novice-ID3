@@ -1,0 +1,35 @@
+age,gender ,height,weight,job,IQ,born
+N,C,N,N,C,N,C
+70,Male,192,97,unemployed,110,syracuse
+42,Female,152,93,police ,109,albany
+49,Male,146,118,doctor,91,buffalo
+38,Female,190,46,nurse,114,yonkers
+91,Male,160,77,police ,92,yonkers
+56,Male,160,97,unemployed,81,rochester
+75,Female,151,88,nurse,86,albany
+42,Male,152,113,student,128,yonkers
+100,Female,151,88,student,98,rochester
+86,Female,196,44,doctor,80,yonkers
+71,Male,150,103,firefighter,76,albany
+65,Female,167,82,zoo keeper,71,rochester
+70,Male,153,65,nurse,72,rochester
+32,Female,193,53,teacher,89,rochester
+22,Male,174,102,student,99,rochester
+74,Male,189,113,doctor,117,syracuse
+89,Female,180,105,mailman,128,syracuse
+81,Male,152,118,nurse,115,new york city
+59,Female,182,86,zoo keeper,116,syracuse
+21,Female,183,60,police ,98,yonkers
+82,Male,200,85,nurse,83,syracuse
+79,Female,199,51,zoo keeper,108,albany
+58,Male,186,111,teacher,73,yonkers
+85,Female,160,65,police ,112,new york city
+51,Male,169,44,teacher,72,yonkers
+48,Male,180,54,zoo keeper,72,yonkers
+46,Female,191,94,teacher,113,syracuse
+29,Male,174,115,firefighter,82,rochester
+20,Female,183,92,zoo keeper,86,buffalo
+86,Female,141,72,student,70,buffalo
+56,Male,173,104,unemployed,126,albany
+93,Female,194,49,unemployed,112,yonkers
+53,Male,153,107,firefighter,91,syracuse
